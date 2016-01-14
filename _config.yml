@@ -22,7 +22,7 @@ author:
   twitter: Nouran_Mhmoud
   linkedin: nouran-mhmoud
   bio: Passionate web wizard working as frontend engineer at @ta3rifah . Ruby on Rails enthusiast and JS lover.
-
+  image: 'assets/media/me.jpg'
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
