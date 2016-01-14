@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Technicalians 
+title: Hello Technicalians
 categories: [general]
 tags: []
 fullview: true
