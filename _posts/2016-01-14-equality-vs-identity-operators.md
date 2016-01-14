@@ -1,5 +1,5 @@
 ---
-yout: post
+layout: post
 title: Equality vs Identity Operator
 categories: [javascript]
 tags: [js, javascript]
